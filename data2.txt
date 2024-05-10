@@ -1,0 +1,3 @@
+10 fire Midtown
+22 flood Westtown
+22 chemical Westtown
